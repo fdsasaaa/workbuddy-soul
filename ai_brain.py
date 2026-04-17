@@ -16,7 +16,7 @@ from typing import Optional
 # ========================================
 # 配置
 # ========================================
-MT4_FILES_PATH = r"C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\5D49F47D1EA1ECFC0DDC965B6D100AC5\MQL4\Files"
+MT4_FILES_PATH = r"C:\Users\fdsas\AppData\Roaming\MetaQuotes\Terminal\E022EDB7217C2E1A652AF8049A698882\MQL4\Files"
 DATA_FILE    = os.path.join(MT4_FILES_PATH, "ai_brain_data.txt")
 CMD_FILE     = os.path.join(MT4_FILES_PATH, "ai_brain_cmd.txt")
 REPORT_FILE  = os.path.join(MT4_FILES_PATH, "ai_brain_report.txt")
